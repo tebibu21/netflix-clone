@@ -49,7 +49,7 @@ function Footer() {
             </p>
         </div>
         <div className='copy-write'>
-            &copy; 1997-2025 Netflix,Inc.
+            &copy; 1997-2025 Netflix, Inc.
         </div>
       </div>
     </div>
